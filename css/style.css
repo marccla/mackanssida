@@ -2,7 +2,14 @@ body {
   background-color: rebeccapurple;
 }
 
+<<<<<<< HEAD
 h1 {
   font-size: 60
 
+=======
+h1{
+  font-size: 30px
+body{
+  background-color: aquamarine;
+>>>>>>> 63af3da1bb6813ea2bf53a071a7444dd9438df4c
 }
